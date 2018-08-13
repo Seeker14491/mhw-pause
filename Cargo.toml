@@ -1,0 +1,8 @@
+[package]
+name = "mhw-pause"
+version = "0.1.0"
+authors = ["Brian Bowman <seeker14491@gmail.com>"]
+
+[dependencies]
+failure = "0.1.2"
+winapi = { version = "0.3", features = ["handleapi", "processthreadsapi", "tlhelp32", "winnt"] }
