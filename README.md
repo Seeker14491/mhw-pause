@@ -2,7 +2,8 @@
 
 Monster Hunter: World has no pause option in-game; this is a small tool that will suspend the game process, effectively pausing it. Just run `mhw-pause.exe` to pause, and to resume press enter in the console window that opens.
 
-## [Downloads](https://github.com/Seeker14491/mhw-pause/releases)
+## Download
+Download the tool from [the releases page](https://github.com/Seeker14491/mhw-pause/releases) (click on the `mhw-pause.exe` link).
 
 ## Building from source
 
